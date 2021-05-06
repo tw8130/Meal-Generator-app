@@ -74,3 +74,4 @@ const createMeal = meal => {
 
 	meal_container.innerHTML = newInnerHTML; // setting this newInnerHTML to be the meal-container's innerHTML to populate that div with all this information
 };
+
