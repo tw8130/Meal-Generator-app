@@ -11,6 +11,7 @@ body {
     align-items: center;
     padding: 30px 0;
     min-height: calc(100vh - 60px);
+    background-image: url("food-vector-pattern.jpg");
 }
 
 img {
