@@ -54,7 +54,8 @@ const createMeal = meal => {
 			</div>
 			<div class="columns seven">
 				<h4>${meal.strMeal}</h4>
-				<p>${meal.strInstructions}</p>
+				<ul>
+				 <li>${meal.strInstructions}</liv> </ul>
 			</div>
 		</div>
 		${
